@@ -1,4 +1,7 @@
-## L.O.T eli tekstikorpus
+#OOP Project
+This is a project from my Object oriented programming class. It is in finnish, and below is the original README of the project, with instructions on how to use it.
+
+# L.O.T eli tekstikorpus
 Ohjelma on tarkoitettu tekstikokoelmien käsittelyyn. Ohjelma käynnistetään 
 komentoikkunassa ohjelmalla Oope2HT ja antamalla komentoriviparametreinä 
 tiedosto, joka halutaan avata ja tiedosto, joka sisältää suodatettavat 
