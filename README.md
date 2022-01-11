@@ -1,4 +1,4 @@
-#OOP Project
+# OOP Project
 This is a project from my Object oriented programming class. It is in finnish, and below is the original README of the project, with instructions on how to use it.
 
 # L.O.T eli tekstikorpus
